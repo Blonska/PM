@@ -1,0 +1,44 @@
+C:\Users\kolya\documents\visual studio 2017\Projects\CourseProjectWinForms\CourseProjectWinForms\bin\Debug\CourseProjectWinForms.exe.config
+C:\Users\kolya\documents\visual studio 2017\Projects\CourseProjectWinForms\CourseProjectWinForms\bin\Debug\CourseProjectWinForms.exe
+C:\Users\kolya\documents\visual studio 2017\Projects\CourseProjectWinForms\CourseProjectWinForms\bin\Debug\CourseProjectWinForms.pdb
+C:\Users\kolya\documents\visual studio 2017\Projects\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.csprojResolveAssemblyReference.cache
+C:\Users\kolya\documents\visual studio 2017\Projects\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.Properties.Resources.resources
+C:\Users\kolya\documents\visual studio 2017\Projects\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.csproj.GenerateResource.Cache
+C:\Users\kolya\documents\visual studio 2017\Projects\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.exe
+C:\Users\kolya\documents\visual studio 2017\Projects\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.pdb
+C:\Users\kolya\Desktop\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.csprojResolveAssemblyReference.cache
+C:\Users\kolya\Desktop\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.csproj.GenerateResource.Cache
+C:\Users\kolya\Desktop\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.exe
+C:\Users\kolya\Desktop\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.pdb
+C:\Users\kolya\Desktop\CourseProjectWinForms\CourseProjectWinForms\bin\Debug\CourseProjectWinForms.exe.config
+C:\Users\kolya\Desktop\CourseProjectWinForms\CourseProjectWinForms\bin\Debug\CourseProjectWinForms.exe
+C:\Users\kolya\Desktop\CourseProjectWinForms\CourseProjectWinForms\bin\Debug\CourseProjectWinForms.pdb
+C:\Users\kolya\Desktop\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.Properties.Resources.resources
+C:\Users\kolya\Desktop\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.MainForm.resources
+C:\Users\kolya\Desktop\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.OpenFileForm.resources
+C:\Users\kolya\Desktop\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.AboutForm.resources
+C:\Users\kolya\Documents\Visual Studio 2017\Projects\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.AboutForm.resources
+C:\Users\kolya\Documents\Visual Studio 2017\Projects\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.MainForm.resources
+C:\Users\kolya\Documents\Visual Studio 2017\Projects\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.OpenFileForm.resources
+G:\Курсова\CourseProjectWinForms\CourseProjectWinForms\bin\Debug\CourseProjectWinForms.exe.config
+G:\Курсова\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.exe
+G:\Курсова\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.pdb
+G:\Курсова\CourseProjectWinForms\CourseProjectWinForms\bin\Debug\CourseProjectWinForms.exe
+G:\Курсова\CourseProjectWinForms\CourseProjectWinForms\bin\Debug\CourseProjectWinForms.pdb
+G:\Курсова\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.csprojResolveAssemblyReference.cache
+G:\Курсова\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.AboutForm.resources
+G:\Курсова\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.MainForm.resources
+G:\Курсова\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.OpenFileForm.resources
+G:\Курсова\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.Properties.Resources.resources
+G:\Курсова\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.csproj.GenerateResource.Cache
+D:\CourseProjectWinForms\CourseProjectWinForms\bin\Debug\CourseProjectWinForms.exe.config
+D:\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.exe
+D:\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.pdb
+D:\CourseProjectWinForms\CourseProjectWinForms\bin\Debug\CourseProjectWinForms.exe
+D:\CourseProjectWinForms\CourseProjectWinForms\bin\Debug\CourseProjectWinForms.pdb
+D:\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.csprojResolveAssemblyReference.cache
+D:\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.AboutForm.resources
+D:\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.MainForm.resources
+D:\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.OpenFileForm.resources
+D:\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.Properties.Resources.resources
+D:\CourseProjectWinForms\CourseProjectWinForms\obj\Debug\CourseProjectWinForms.csproj.GenerateResource.Cache
